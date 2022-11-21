@@ -1,0 +1,60 @@
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.AssemblyReference.cache
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.SuggestedBindingRedirects.cache
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.Form1.resources
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.HamburgerForm.resources
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.SideForm.resources
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.DrinkForm.resources
+C:\수업\윈도우프로그래밍 실습\Windows Forms_Kiosk\Kiosk\Kiosk\obj\Debug\Kiosk.Form2.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.AssemblyReference.cache
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.SuggestedBindingRedirects.cache
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.Form1.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.Form2.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.HamburgerForm.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.SideForm.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.DrinkForm.resources
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+D:\sideProject\Kiosk-master\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.AssemblyReference.cache
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.SuggestedBindingRedirects.cache
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.Form1.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.Form2.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.HamburgerForm.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.SideForm.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.DrinkForm.resources
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+C:\수업\윈도우프로그래밍 실습\good\AssignmentFairy-main\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.AssemblyReference.cache
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.SuggestedBindingRedirects.cache
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+C:\수업\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\수업\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+C:\수업\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.Form1.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.Form2.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.HamburgerForm.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.SideForm.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.DrinkForm.resources
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+C:\수업\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
